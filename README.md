@@ -14,25 +14,6 @@ The application predicts whether a user's insurance premium category will be Low
    - Pydantic (Data validation & schema management)
    - Pickle (Model serialization)
 
-Project Structure -
-Insurance-Premium-Prediction/
-│
-├── config/
-│   └── city_tier.py
-│
-├── model/
-│   ├── model.pkl
-│   └── predict.py
-│
-├── schema/
-│   ├── user_input.py
-│   └── prediction_response.py
-│
-├── app.py
-├── frontend.py
-├── insurance.csv
-├── requirements.txt
-└── README.md
 
 ⚙️ Features
 ✅ Smart Feature Engineering (Backend)
